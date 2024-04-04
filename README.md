@@ -1,7 +1,7 @@
 # Web-Based-VoIP-Calling-Tool-and-Comprehensive-Phonebook-Manager
 
 #### Technology Stack
-* Frontend : HTML,CSS,Javascript (HBS Template Engine)
+* Frontend : HTML (HBS Template Engine) ,CSS,Javascript 
 * Backend : NodeJs
 * Database : MySQL 
 
