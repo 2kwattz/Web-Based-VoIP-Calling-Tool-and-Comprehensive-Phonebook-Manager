@@ -2,6 +2,8 @@
 
 #### Technology Stack
 * Frontend : HTML,CSS,Javascript
-* Backend : *NodeJs, MySQL
+* Backend : NodeJs
+* Database : MySQL 
 
-* (Coming Soon)
+#### Project Details
+
